@@ -10,7 +10,7 @@
 - 📫 How to reach me **vuhailam2112@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-- Phone or Zalo: 0966701154
+- Phone or Zalo: 0966701154 <br/>
 - Email: vuhailam2112@gmail.com
 <p align="left">
 </p>
