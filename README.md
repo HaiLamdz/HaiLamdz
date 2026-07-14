@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hailamdz&label=Profile%20views&color=0e75b6&style=flat" alt="hailamdz" /> </p>
 
-- 🔭 I’m currently studying at [FPT Polytechnic College](https://caodang.fpt.edu.vn/)
-
 - 🌱 I’m currently learning **Toeic (Target 600+)**
 
 - 📫 How to reach me **vuhailam2112@gmail.com**
